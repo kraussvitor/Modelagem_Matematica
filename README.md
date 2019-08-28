@@ -1,2 +1,3 @@
-# Modelagem_Matematica
-Projetos e implementações pessoais para a Disciplina de Modelagem Matemática da UFRJ no período de 2019.1.
+﻿# Modelagem_Matematica
+
+Projects and implementations for the class 'Modelagem Matematica' from UFRJ for the 2019.1 term.
